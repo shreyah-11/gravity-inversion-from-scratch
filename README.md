@@ -1,7 +1,7 @@
 # gravity-inversion-from-scratch
 
 Gravity inversion in Python, built up step by step from first principles.
-I'm an MSc Applied Geophysics graduate (IIT (ISM) Dhanbad) and this repository is a learning series: each part adds one idea.
+I'm an MSc Tech. Applied Geophysics graduate (IIT (ISM) Dhanbad) and this repository is a learning series: each part adds one idea.
 
 **All data here are SYNTHETIC** (computed from simple forward models). No field data.
 
