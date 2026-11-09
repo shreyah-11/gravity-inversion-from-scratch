@@ -11,6 +11,6 @@ I'm an MSc Tech. Applied Geophysics graduate (IIT (ISM) Dhanbad) and this reposi
 
 More parts will follow (least squares, regularised inversion).
 
-These are guided study exercises: the notebooks were set up as exercises and I had hints along the way.
+These are guided study exercises: the notebooks were set up as exercises.
 
 Run in Google Colab or Jupyter with NumPy and Matplotlib.
